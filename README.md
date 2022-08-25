@@ -3,7 +3,7 @@
   <a href="https://www.youtube.com/c/DevProTips"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&style=for-the-badge#2"/></a> 
   <a href="https://twitter.com/masibo_sammy"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/Sammy048"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/Sammy048"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+  <a href="https://github.com/Sammy048"><img alt="views" title="Github views" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
 
@@ -24,7 +24,7 @@ pursuing my BSC.Mathematics and Computer Science. I am also a student at Moringa
 * 💻 I'm a full stack web developer
 * 🎨 I'm a self-taught UI designer
 * 📱 I make apps for Android and iOS
-* 🎓 I'm a Computer Science student (graduating in October 2021)
+* 🎓 I'm a Mathematics and Computer Science graduate
 * 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
 * 📺 I make web development and tech tutorials on [YouTube]
 
@@ -73,9 +73,9 @@ pursuing my BSC.Mathematics and Computer Science. I am also a student at Moringa
 
 
 ### Lets connect through:
-<a href="https://www.facebook.com/tewaryb/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
-<a href="https://twitter.com/bhumika_tewary"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-<a href="https://www.linkedin.com/in/bhumika-tewary-6673681a4/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://www.facebook.com/sammy.masibo.927/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
+<a href="https://twitter.com/masibo_sammy"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://www.linkedin.com/in/sammy-wekesa-562b801a5/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://in.pinterest.com/"><img src="https://img.icons8.com/color/48/000000/pinterest--v1.png"/></a>
 
 
