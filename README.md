@@ -34,9 +34,15 @@ pursuing my BSC.Mathematics and Computer Science. I am also a student at Moringa
 
 <br>
 
-##### I am currently listening to:
+## 🔥 My contribution streak
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1#version3"/>
+  </a>
+</p>
+
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/DenverCoder1?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 <br>
 
