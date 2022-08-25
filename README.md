@@ -1,5 +1,6 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sammy Masibo 👩‍💻</h1>
 <br>
+![](https://komarev.com/ghpvc/?username=Sammy048&brightgreen)
 
 I am an Undergraduate Student at Kenyatta University
 pursuing my BSC.Mathematics and Computer Science. I am also a student at Moringa School pursuing Software Engineering.
@@ -64,5 +65,3 @@ pursuing my BSC.Mathematics and Computer Science. I am also a student at Moringa
 
 
 [resume]: https://drive.google.com/file/d/1ryZi4rw91dM1LL62zYgHpemjKuxkWHdx/view?usp=sharing
-
-![](https://komarev.com/ghpvc/?username=Sammy048&brightgreen)
