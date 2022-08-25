@@ -20,11 +20,13 @@ pursuing my BSC.Mathematics and Computer Science. I am also a student at Moringa
 
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
-- ✍ You can find my resume here [Resume]
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on open source
-- 📫 Reach out to me: bhumikatewary49@gmail.com
-- ⚡ Fun fact: I know how to play a piano
+
+* 💻 I'm a full stack web developer
+* 🎨 I'm a self-taught UI designer
+* 📱 I make apps for Android and iOS
+* 🎓 I'm a Computer Science student (graduating in October 2021)
+* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
+* 📺 I make web development and tech tutorials on [YouTube]
 
 <br>
 
@@ -65,6 +67,9 @@ pursuing my BSC.Mathematics and Computer Science. I am also a student at Moringa
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bhumikatewary&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
+
+### Github Activity: 🔥 
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=billpwchan&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
 
 ### Lets connect through:
